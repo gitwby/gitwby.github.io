@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitwby.github.io</id>
     <title>红石锭的小站</title>
-    <updated>2022-01-30T07:20:39.608Z</updated>
+    <updated>2022-02-06T09:46:14.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gitwby.github.io"/>
     <link rel="self" href="https://gitwby.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://gitwby.github.io/images/avatar.png</logo>
     <icon>https://gitwby.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 红石锭的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Luminar 4 官方限免活动教程]]></title>
+        <id>https://gitwby.github.io/post/luminar-4-guan-fang-xian-mian-huo-dong-jiao-cheng/</id>
+        <link href="https://gitwby.github.io/post/luminar-4-guan-fang-xian-mian-huo-dong-jiao-cheng/">
+        </link>
+        <updated>2022-02-06T09:37:46.000Z</updated>
+        <content type="html"><![CDATA[<p>前言：Luminar 4是一款基于AI的照片编辑器，它可以帮你在几秒内更换蓝天、为照片添加物体、完善人像（皮肤和人脸）、滤镜、景深、擦除不需要的物体，还拥有图像库用来管理照片，软件拥有Windows及macOS版本，目前官网免费送终身授权，原售价79刀，现在一个邮箱即可免费领取.</p>
+<p>首先我们进入<a href="https://skylum.com/chip-luminar4">领取链接</a>，填写姓名（随便填）与邮箱。但最好不要打下面的勾(其实是方框)，因为这并不是什么用户协议，只是接受来自skylum的电子邮件（包含优惠、新闻、以及促销活动）。<br>
+然后再打开Skylum Team发的邮件，找到格式为****-<strong><strong>-</strong></strong>-****-****的20位激活码，并复制下来。然后点下载链接（<a href="https://click.pstmrk.it/2s/downloads.skylum.com%2Fluminar4%2Finstaller%2Fwin%2FLuminar4Setup.exe/YJZBpikN/_9dh/qWx2UDUMz4">Windows地址</a>/<a href="https://click.pstmrk.it/2s/downloads.skylum.com%2Fluminar4%2Finstaller%2Fmac%2FLuminar4Installer.zip/YZZBpikN/_9dh/ZjIKEVRO3H">MacOS地址</a>）在安装时，你也可以选择作为插件安装。安装完成后点启动Luminar 4。<br>
+最后输入你获取激活码的邮箱及激活码就好啦。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免责声明]]></title>
         <id>https://gitwby.github.io/post/mian-ze-sheng-ming/</id>
